@@ -97,4 +97,12 @@ Debido a que este es un proyecto empresarial propietario, el código fuente no e
 * **Herramientas:** Git, GitHub, VS Code, Xcode.
 
 ---
+
+## Contacto y Enlaces
+
+* **LinkedIn:** https://www.linkedin.com/in/edgar-ismael-lópez-rosas-118328191
+* **Email:** Edgar.LopezRosas@hotmail.com
+* **GitHub:** @EdgarLopezMX
+* **CV:** [Descargar PDF aquí](Edgar_Lopez_CV.pdf)
+
 *Desarrollado en Puebla, México por Edgar Ismael López Rosas.*

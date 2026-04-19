@@ -96,4 +96,12 @@ Since this is a proprietary enterprise project, the source code is not public. H
 * **DevOps/Tools:** Git, GitHub, VS Code, Xcode.
 
 ---
+
+## Contact & Links
+
+* **LinkedIn:** https://www.linkedin.com/in/edgar-ismael-lópez-rosas-118328191
+* **Email:** Edgar.LopezRosas@hotmail.com
+* **GitHub:** @EdgarLopezMX
+* **Resume:** [Download PDF Here](Edgar_Lopez_CV.pdf)
+
 *Developed in Puebla, Mexico by Edgar Ismael López Rosas.*
